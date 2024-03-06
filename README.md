@@ -8,4 +8,3 @@
 - Gradle
 - IntelliJ IDEA
 - Git
-- test
