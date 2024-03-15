@@ -6,8 +6,6 @@ class Number{
     int num2 = 0; //인스턴스 필드
 }
 
-
-
 public class StaticPractice {
 
 
