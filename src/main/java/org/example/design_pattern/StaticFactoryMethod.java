@@ -17,6 +17,8 @@ public class StaticPractice {
         number1.num2++; //인스턴스 필드 num을 1증가시킴
         System.out.println(number2.num); //두번째 number의 클래스 필드 출력
         System.out.println(number2.num2); //두번째 number의 인스턴스 필드 출력
+
+
     }
 
 }
